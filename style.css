@@ -1,0 +1,57 @@
+.body{
+    background-color: aqua;
+    font-family: cursive;
+    text-align: center;
+}
+.head{
+    font-size: 320%;
+    padding: 1.9%;
+    background-color: #465EFC;
+    border: 20%;
+    border-radius: 2.3%;
+}
+.infos{
+    /*border: 20%;
+    border-style: solid;*/
+    font-size: 40%;
+    text-align: right;
+    justify-content: end;
+}
+.title{
+    margin-top: 5%;
+    border: 20%;
+    /*border-style: solid;*/
+    font-size: 170%;
+}
+.awInfo{
+    margin:3%;
+    font-size: 100%;
+    text-align: right;
+}
+.awInfoText{
+    margin-top: -10%;
+}
+.writerImg{
+    text-align: left;
+    padding:0.5%;
+    margin-left: 5%;
+    margin-bottom: 1.9%;
+    margin-right: 2%;
+}
+
+.item{
+    background-color:white;
+    margin-top:4%;
+    border:solid;
+    border-radius: 2.2%;
+}
+.itempic{
+    height:10%;
+}
+.itemname1{
+    text-align: left;
+    font-size: 320%;
+}
+.steps{
+    text-align: left;
+}
